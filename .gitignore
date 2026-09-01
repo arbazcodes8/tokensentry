@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+*.egg-info/
+.env
+
+# Virtual environment — recreated by setup.ps1 / setup.sh
+venv/
+
+# Generated data — recreated by generate_data.py
+data/*.csv
+data/*.jsonl
+data/*.joblib
+
+# Generated dashboard — recreated by build_dashboard.py
+docs/dashboard.html

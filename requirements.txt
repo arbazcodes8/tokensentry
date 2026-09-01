@@ -1,0 +1,11 @@
+pandas==3.0.2
+numpy==2.4.4
+scikit-learn==1.8.0
+shap==0.52.0
+statsmodels==0.14.6
+flask==3.0.3
+anthropic==0.39.0
+razorpay==2.0.1
+joblib==1.5.3
+requests==2.33.1
+pytest==9.1.1
